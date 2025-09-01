@@ -6,10 +6,10 @@ import Login from './pages/Login'
 import { productsContext } from './context/productsContext'
 import Cart from './pages/Cart'
 const products = [    
-  { id: 1, title: "Dell G15-5520", category: "laptop", color: "Black", price: "36870", salePrice: "36270", imageURL: "images/labtop1.jpg" },
-  { id: 2, title: "Lenovo V15", category: "laptop", color: "gray", price: "13333", salePrice: "13011", imageURL: "images/labtop2.jpg" },
-  { id: 3, title: "HP Victus", category: "laptop", color: "Black", price: "47699", salePrice: "47438", imageURL: "images/labtop3.jpg" },
-  { id: 4, title: "Dell Vostro", category: "laptop", color: "Black", price: "29660", salePrice: "29320", imageURL: "images/labtop4.jpg" },
+  { id: 1, title: "Dell G15-5520", category: "laptop", color: "Black", price: "36870", salePrice: "36270", imageURL: "images/Labtop1.jpg" },
+  { id: 2, title: "Lenovo V15", category: "laptop", color: "gray", price: "13333", salePrice: "13011", imageURL: "images/Labtop2.jpg" },
+  { id: 3, title: "HP Victus", category: "laptop", color: "Black", price: "47699", salePrice: "47438", imageURL: "images/Labtop3.jpg" },
+  { id: 4, title: "Dell Vostro", category: "laptop", color: "Black", price: "29660", salePrice: "29320", imageURL: "images/Labtop4.jpg" },
   { id: 5, title: "R50i", category: "Earbuds", color: "Black", price: "1699", salePrice: "1399", imageURL: "images/Earbuds1.jpg" },
   { id: 6, title: "R100", category: "Earbuds", color: "White", price: "1600", salePrice: "1499", imageURL: "images/Earbuds.jpg" },
   { id: 7, title: "Life P2", category: "Earbuds", color: "Black", price: "2899", salePrice: "2699", imageURL: "images/Earbuds3.jpg" },
